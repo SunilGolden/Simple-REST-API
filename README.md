@@ -10,8 +10,8 @@ npm i
 ```
 
 #### 2. **(Optional)** Set the PORT.
-    <br />
-    By default, it will listen at port 7777
+    
+By default, it will listen at port 7777
 ```
 set PORT=5000
 ```

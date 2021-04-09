@@ -4,8 +4,6 @@
 
 ## Deployment Guide
 
-<br />
-
 #### 1. Install the dependencies
 ```
 npm i

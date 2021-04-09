@@ -1,0 +1,23 @@
+{
+    "name": "simple-rest-api",
+    "version": "1.0.0",
+    "description": "A simple rest api.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SunilGolden/Simple-REST-API.git"
+    },
+    "author": "Sunil Gautam <gautam.sunil7725@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SunilGolden/Simple-REST-API/issues"
+    },
+    "homepage": "https://github.com/SunilGolden/Simple-REST-API#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "joi": "^17.4.0"
+    }
+}

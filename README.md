@@ -1,7 +1,5 @@
 # Simple-REST-API
 
-<br />
-
 ## Deployment Guide
 
 #### 1. Install the dependencies
@@ -21,3 +19,8 @@ set PORT=5000
 node index.js
 ```
 
+<br />
+
+## API Documentation
+
+Check the API documentation at ```http://localhost:7777/api-docs/```
